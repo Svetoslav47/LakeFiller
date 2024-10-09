@@ -1,0 +1,13 @@
+/* grid.css */
+.grid {
+    display: grid;
+    max-width: 100vw;
+    height: 100%;
+}
+
+.tile {
+    display: inline-block;
+    border: 1px solid black;
+    text-align: center;
+    line-height: 100%; /* Adjust based on your requirements */
+}
