@@ -1,5 +1,5 @@
 import React from 'react';
-import './grid.css'; // Import the CSS file
+import './tile.css'; // Import the CSS file
 
 interface TileProps {
     value: number;
